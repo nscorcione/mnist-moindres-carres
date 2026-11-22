@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.spyproject/
+.vscode/
+# les CSV non compressés sont trop lourds pour GitHub
+mnist_train.csv
+mnist_test.csv
